@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		52ACADE32520C37F00E48FC2 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ACADE22520C37F00E48FC2 /* CircleImage.swift */; };
+		52ACADE82520C54C00E48FC2 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ACADE72520C54C00E48FC2 /* MapView.swift */; };
 		52B48DDE2520A720007421DC /* Tutorial1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B48DDD2520A720007421DC /* Tutorial1App.swift */; };
 		52B48DE02520A720007421DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B48DDF2520A720007421DC /* ContentView.swift */; };
 		52B48DE22520A724007421DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B48DE12520A724007421DC /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		52ACADE22520C37F00E48FC2 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		52ACADE72520C54C00E48FC2 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		52B48DDA2520A720007421DC /* Tutorial1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tutorial1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B48DDD2520A720007421DC /* Tutorial1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tutorial1App.swift; sourceTree = "<group>"; };
 		52B48DDF2520A720007421DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				52B48DE62520A724007421DC /* Info.plist */,
 				52B48DE32520A724007421DC /* Preview Content */,
 				52ACADE22520C37F00E48FC2 /* CircleImage.swift */,
+				52ACADE72520C54C00E48FC2 /* MapView.swift */,
 			);
 			path = Tutorial1;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52B48DE02520A720007421DC /* ContentView.swift in Sources */,
+				52ACADE82520C54C00E48FC2 /* MapView.swift in Sources */,
 				52B48DDE2520A720007421DC /* Tutorial1App.swift in Sources */,
 				52ACADE32520C37F00E48FC2 /* CircleImage.swift in Sources */,
 			);
